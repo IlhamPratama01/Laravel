@@ -22,7 +22,7 @@
             <a href="/mahasiswa/cetak_pdf" class="btn btn-primary" style="margin-left: 5px;" target="blank">Cetak PDF</a>
             <a href="/mahasiswa/export_excel" class="btn btn-primary" style="margin-left: 5px;" target="blank">Export EXCEL</a>
         </div>
-                <br><br> 
+                <br><br>  
 
         <table class="table table-dark table-striped" >
             <thead>
